@@ -23,8 +23,8 @@ from telebot.types import (
 # ═══════════════════════════════════════════════════════
 #  НАСТРОЙКИ
 # ═══════════════════════════════════════════════════════
-BOT_TOKEN   = "СЮДА_ВАШ_ТОКЕН"    # токен от @BotFather
-ADMIN_IDS   = [123456789]           # ← ваши Telegram ID
+BOT_TOKEN   = "8983312844:AAHm2OPJeBLUvu76zoePIVtePh6srSgqRnQ"    # токен от @BotFather
+ADMIN_IDS   = [853173723]           # ← ваши Telegram ID
 CURRENCY    = "ZEON"
 C_ICON      = "💎"
 BONUS_BASE  = 2500
